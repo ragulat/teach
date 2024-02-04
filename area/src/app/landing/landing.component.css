@@ -1,0 +1,13 @@
+at-toolbar{
+    width: 100%;
+    height: 80px;
+    background: rgba(101, 175, 255, 0.50);
+}
+a{
+    color: #000;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+margin: 20px;
+
+}

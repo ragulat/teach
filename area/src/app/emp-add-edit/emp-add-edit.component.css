@@ -1,0 +1,20 @@
+.content{
+ padding-top: 20px;
+ margin: auto;
+}
+.row{
+    display: flex;
+    gap: 10px;
+ 
+}
+.action{
+    padding: 0px 25px 20px;
+}
+h1{
+    width: 156px;
+height: 14px;
+top: 172.27px;
+left: 1057px;
+margin-right: auto;
+
+}

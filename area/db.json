@@ -1,0 +1,155 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "body": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "1",
+      "OrganizationName": "ajth",
+      "email": "ajith@gmail.com",
+      "contactno": "8610505861",
+      "OrganizationType": "update",
+      "LicenseTerm": "",
+      "LicenseExpiry": "52215",
+      "Status": ""
+    },
+    {
+      "id": "4d59",
+      "OrganizationName": "praveen",
+      "email": "praven@gmail.com",
+      "contactno": "6382745994",
+      "OrganizationType": "ant",
+      "LicenseTerm": "",
+      "LicenseExpiry": "5151",
+      "Status": ""
+    },
+    {
+      "id": "fc5e",
+      "OrganizationName": "praba",
+      "email": "praba",
+      "contactno": "7868932487",
+      "OrganizationType": "agri",
+      "LicenseTerm": "",
+      "LicenseExpiry": "30",
+      "Status": "ok"
+    },
+    {
+      "id": "477a",
+      "OrganizationName": "",
+      "email": "",
+      "contactno": "",
+      "OrganizationType": "",
+      "LicenseTerm": "",
+      "LicenseExpiry": "",
+      "Status": ""
+    },
+    {
+      "id": "0953",
+      "OrganizationName": "",
+      "email": "",
+      "contactno": "",
+      "OrganizationType": "",
+      "LicenseTerm": "",
+      "LicenseExpiry": "",
+      "Status": ""
+    },
+    {
+      "id": "17ea",
+      "OrganizationName": "angular",
+      "email": "angular@gmail.com",
+      "contactno": "9087896597",
+      "OrganizationType": "ant",
+      "LicenseTerm": "2",
+      "LicenseExpiry": "one month",
+      "Status": "try"
+    },
+    {
+      "id": "6a5e",
+      "OrganizationName": "angular",
+      "email": "angular@gmail.com",
+      "contactno": "9087896597",
+      "OrganizationType": "ant",
+      "LicenseTerm": "2",
+      "LicenseExpiry": "one month",
+      "Status": "try"
+    },
+    {
+      "id": "8255",
+      "OrganizationName": "arivu",
+      "email": "ragullugar98@gmail.com",
+      "contactno": "789456123",
+      "OrganizationType": "clim",
+      "LicenseTerm": "start",
+      "LicenseExpiry": "555-222",
+      "Status": "active"
+    },
+    {
+      "id": "7c10",
+      "OrganizationName": "",
+      "email": "",
+      "contactno": "",
+      "OrganizationType": "",
+      "LicenseTerm": "",
+      "LicenseExpiry": "",
+      "Status": ""
+    },
+    {
+      "id": "4250",
+      "OrganizationName": "final",
+      "email": "final@gmail.com",
+      "contactno": "9566672592",
+      "OrganizationType": "clin",
+      "LicenseTerm": "new",
+      "LicenseExpiry": "4-6",
+      "Status": "Suspended",
+      "Action": ""
+    },
+    {
+      "id": "30cc",
+      "OrganizationName": "",
+      "email": "",
+      "contactno": "",
+      "OrganizationType": "",
+      "LicenseTerm": "",
+      "LicenseExpiry": "",
+      "Status": "",
+      "Action": ""
+    },
+    {
+      "id": "3d0a",
+      "OrganizationName": "ajth",
+      "email": "ajith@gmail.com",
+      "contactno": "8610505861",
+      "OrganizationType": "update",
+      "LicenseTerm": "",
+      "LicenseExpiry": "52215",
+      "Status": "Active",
+      "Action": ""
+    },
+    {
+      "id": "1bf7",
+      "OrganizationName": "",
+      "email": "",
+      "contactno": "",
+      "OrganizationType": "",
+      "LicenseTerm": "",
+      "LicenseExpiry": "",
+      "Status": "",
+      "Action": ""
+    }
+  ]
+}

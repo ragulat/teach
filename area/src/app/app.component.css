@@ -1,0 +1,33 @@
+h1{
+  font-family: "Krona One";
+font-size: 45px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.sidenav-wapper {
+  position: absolute;
+  top: 50px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #D6D8EDee;
+}
+mat-sidenav-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+mat-sidenav{
+  width: 200px;
+  padding: 20px;
+}
+button span{
+  margin: 10px;
+  
+}
